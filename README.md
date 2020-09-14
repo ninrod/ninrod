@@ -6,5 +6,4 @@ I'm Filipe Silva (a.k.a @ninrod), Lead Software Architect.
 
 - 📫 How to reach me: 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Filipe%20Silva-blue)](https://www.linkedin.com/in/filipe-silva-ninrod/) 
-[![Instagram Badge](https://img.shields.io/badge/Insta-%40gramasinstantaneas-red)](https://www.instagram.com/gramasinstantaneas/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Filipe%20Silva-blue)](https://www.linkedin.com/in/filipe-silva-ninrod/)
