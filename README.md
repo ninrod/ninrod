@@ -7,3 +7,5 @@ I'm Filipe Silva (a.k.a @ninrod), Lead Software Architect working for the [Brazi
 - 📫 How to reach me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Filipe%20Silva-blue)](https://www.linkedin.com/in/filipe-silva-ninrod/)
+[![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-Filipe%20Silva-orange)](https://stackexchange.com/users/6338747/ninrod/)
+
